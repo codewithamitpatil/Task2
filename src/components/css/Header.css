@@ -1,0 +1,113 @@
+
+
+/*  min width 1000px  */
+@media screen and (min-width: 1000px)
+{
+
+
+header .my-nav{
+    /* background: #131313; */
+    background: #fff;
+    position: fixed;
+}
+
+header .my-nav  .container .row .nav-items .menu-items .menu ul li a{
+
+
+color: #072366;
+font-weight: 400;
+font-size: 17px;
+/* color: #fff; */
+color: #acaeb1;
+}
+
+
+header .my-nav  .container .row .nav-items 
+.menu-items 
+.menu ul li a:hover{
+
+color: #24ac75;
+
+
+}
+
+/*  logo set  */
+
+header .my-nav  .container .row .nav-items img
+{
+   width:400px;
+   background: #f8f8ff85;
+   
+
+}
+
+/*  hamburger */
+header .my-nav  .container .row 
+.nav-items .menu-toggle .menu-hamburger span
+{
+margin-right: 20px;
+ 
+}
+
+header .btn.btn-success{
+    background: #24ac75;
+    padding:8px 10px 8px 10px;
+    margin-left:60px;
+
+    width: 140px;
+    /* box-shadow: 0 9px 26px rgb(58 87 135 / 10%); */
+}
+
+
+
+.navbar-toggler-icon
+{
+    margin-top: -10px;
+    background: #072366;
+}
+
+header .my-nav  .container .row
+.logo h1{
+    display: none;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 800px)
+{
+    header .my-nav{
+        /* background: #131313; */
+        background: #fff;
+        position: fixed;
+    }
+
+    header .my-nav  .container .row
+     .nav-items img
+    {
+       display: none;
+       background: #f8f8ff85;
+    }
+
+    header .my-nav  .container .row
+    .logo h1
+    {
+        background: #f8f8ff85;
+        font-size: 22px;
+        text-align: center;
+        color: #072366;
+    }
+
+    header .my-nav  .container .row .nav-items .menu-items .menu ul li a{
+
+
+        color: #072366;
+        font-weight: 400;
+        font-size: 17px;
+        /* color: #fff; */
+    
+        }
+        
+}

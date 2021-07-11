@@ -1,0 +1,71 @@
+
+.banner
+{
+    /* background: #002d5bc7; */
+    /* background: #002d5b40; */
+    background: white;
+}
+
+
+.banner .container .row .wrapper h1{
+    color: #24ac75;
+    color: #002d5b99;
+   font-size: 40px;
+     font-weight: 800;
+}
+
+.banner .container .row .wrapper p{
+    color: #acaeb1;
+   font-size: 20px;
+     font-weight: 400;
+}
+
+.banner .container .row .wrapper span{
+    font-weight: 500;
+    margin-bottom: 34px;
+    color: #09cc7f;
+    text-transform: capitalize;
+    display: inline-block;
+    letter-spacing: .05em;
+    padding-top: 10px;
+}
+
+.banner .btn.btn-success{
+    background: #24ac75;
+    padding:10px;
+ border: none;
+
+    width:140px;
+}
+
+.banner .con{
+    letter-spacing: .05em;
+    font-weight: 700;
+ margin-left: 30px;
+ font-size: 18px;
+}
+
+.banner .cover
+{
+    width: 100%;
+    background: #fff;
+    height: 100px;
+}
+.content{
+    background: #fff;
+}
+
+
+@media screen and (max-width: 800px){
+
+.banner-img img
+{
+  margin-top: -200px;
+}
+
+.btn-002 .con{
+margin-left:0px;
+margin-top: 10px;
+}
+
+}

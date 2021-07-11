@@ -1,0 +1,72 @@
+
+
+.bgc .container{
+    background: white;
+    
+}
+
+
+
+
+
+.yy{
+    margin:0 -16px 8px -16px;
+    color:#79889e;
+    font-size: 17px;
+}
+#contact
+{
+    margin-top: -10px;
+}
+
+#contact h1{
+    color:#79889e;
+font-size:24px;
+
+}
+
+#contact h2{
+    color:#24ac75;
+    align-items: center;
+    justify-content: center;
+}
+
+#contact p
+{
+    color:#79889e;
+}
+
+.w3-large{
+    
+    color:#79889e;
+}
+
+#contact .btn-success{
+    padding: 10px;
+    background: #24ac75;
+    padding:10px;
+
+
+}
+
+#contact .imgs img{
+    box-shadow: 0 9px 26px rgb(58 87 135 / 10%);
+
+}
+
+#contact .btn-success:hover{
+    background: #24ac75;
+    outline: 2px solid aliceblue;
+}    
+
+
+/*  min width 1000px  */
+@media screen and (min-width: 1000px)
+{
+    #contact
+    {
+        margin-top: 70px;
+    }
+    
+
+}   
