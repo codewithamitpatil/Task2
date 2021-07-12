@@ -1,0 +1,143 @@
+
+.Type2Grid{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background: transparent;
+    padding: 0px; 
+    padding-right:50px;
+    padding-top: 50px;
+}
+
+
+
+
+.Type2Grid .card
+{
+    border-radius: 12px;
+    margin-bottom: 50px;
+    background: white;
+    border: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    transition: .3s all ease-in-out;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.Type2Grid .card .card-img-top
+{
+   height: 30vh;   
+   padding: 20px;
+   padding-bottom: 0px;
+}
+
+
+.Type2Grid .card .card-bodys
+{
+    padding: 30px;
+  
+}
+.Type2Grid .card .card-bodys .date
+{
+  color: #8d8d8d;
+}
+
+.Type2Grid .card .card-bodys .card-text
+{
+    color: #8d8d8d;
+    line-height: 1.7;
+    font-weight: 400;
+}
+
+.Type2Grid .card .card-bodys .tit
+{
+    color: #002d5b99;
+ font-size:20px;
+ font-weight: 400;
+}
+
+
+.Type2Grid .card .card-bodys .times
+{
+
+    line-height: 1.7;
+    font-weight: 400;
+    color: #24ac75;
+    margin-top: 10px;
+}
+
+
+@media screen and (max-width: 800px){
+
+
+    .Type2Grid{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        background: transparent;
+        padding: 0px; 
+        
+    }
+    
+    
+    
+    
+    .Type2Grid .card
+    {
+        border-radius: 12px;
+        margin-bottom: 50px;
+        background: white;
+        border: none;
+        -webkit-tap-highlight-color: rgba(0,0,0,0);
+        transition: .3s all ease-in-out;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    
+    .Type2Grid .card .card-img-top
+    {
+       height: 30vh;   
+       padding: 20px;
+       padding-bottom: 0px;
+    }
+    
+    
+    .Type2Grid .card .card-bodys
+    {
+        padding: 30px;
+      
+    }
+    .Type2Grid .card .card-bodys .date
+    {
+      color: #8d8d8d;
+    }
+    
+    .Type2Grid .card .card-bodys .card-text
+    {
+        color: #8d8d8d;
+        line-height: 1.7;
+        font-weight: 400;
+    }
+    
+    .Type2Grid .card .card-bodys .tit
+    {
+        color: #002d5b99;
+     font-size:20px;
+     font-weight: 400;
+    }
+    
+    
+    .Type2Grid .card .card-bodys .times
+    {
+    
+        line-height: 1.7;
+        font-weight: 400;
+        color: #24ac75;
+        margin-top: 10px;
+    }
+    
+
+
+}

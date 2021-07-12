@@ -1,6 +1,6 @@
 
-import React from 'react'
-import { Link} from 'react-router-dom';
+import React from 'react';
+import { NavLink } from 'react-router-dom';
 
 
 import './css/Header.css';
@@ -30,25 +30,26 @@ return (
 <div class="menu">
 <ul>
 <li>
-   <Link to="">
+   <NavLink exact activeClassName="activeRoute" to="">
       Home
-    </Link>
+
+    </NavLink>
        </li>
 <li>
-<Link to="/about">
+<NavLink activeClassName="activeRoute" to="/about">
 About Us
-</Link>
+</NavLink>
 
 </li>
 <li>
-<Link to="/news"> 
+<NavLink activeClassName="activeRoute"  to="/news"> 
 News
-    </Link>
+    </NavLink>
     </li>
 <li>
-<Link to="/contact">
+<NavLink activeClassName="activeRoute"  to="/contact">
 Contact Us
- </Link>   
+ </NavLink>   
     </li>
 <li>
     <button className="btn btn-success">Donate</button>

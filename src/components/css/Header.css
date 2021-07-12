@@ -1,5 +1,11 @@
 
 
+.activeRoute a{
+  
+    color: #072366;
+    border-bottom: 1px solid red;
+}
+
 /*  min width 1000px  */
 @media screen and (min-width: 1000px)
 {
@@ -20,7 +26,18 @@ font-size: 17px;
 /* color: #fff; */
 color: #acaeb1;
 }
+header .my-nav  .container .row .nav-items .menu-items .menu ul li .activeRoute{
 
+
+    color: #072366;
+    font-weight: 400;
+    font-size: 17px;
+    /* color: #fff; */
+
+    color: #24ac75;
+
+    }
+    
 
 header .my-nav  .container .row .nav-items 
 .menu-items 
