@@ -21,7 +21,7 @@ useEffect(() => {
 
 
  
-  axios.get('https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey=875e6e3477da417bb64f9db63267d8d8')
+  axios.get('https://amitfoundation.herokuapp.com/covid.json')
   .then(response =>{
     // setNews1(response.data.articles);
    
