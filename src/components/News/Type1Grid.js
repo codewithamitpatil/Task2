@@ -22,7 +22,7 @@ useEffect(() => {
 
   
 
-  axios.get('https://newsapi.org/v2/everything?q=covid&from=2021-07-11&to=2021-07-11&sortBy=popularity&apiKey=875e6e3477da417bb64f9db63267d8d8')
+  axios.get('https://amitfoundation.herokuapp.com/covid.json')
   .then(response =>{
 
       let filter = response.data.articles.filter(function (e,index) {
