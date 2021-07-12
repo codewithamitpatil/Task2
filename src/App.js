@@ -11,7 +11,7 @@
  import ContactUs from './components/ContactUs';
  import Home from './components/Home';
  import Footer from './components/Footer';
- 
+ import News   from './components/News/News'
 
  import './components/css/App.css';
 
@@ -39,6 +39,7 @@
       <Route exact  path="/"  component={Home} />
       <Route path="/about"  component={AboutUs} />
       <Route path="/contact" component={ContactUs} />
+      <Route path="/news" component={News} />
     
 
        </Switch>
