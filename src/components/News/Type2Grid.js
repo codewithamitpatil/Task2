@@ -21,7 +21,7 @@ useEffect(() => {
 
 
  
-  axios.get('https://amitfoundation.herokuapp.com/covid.json')
+  axios.get('https://amitfoundation.herokuapp.com/techno.json')
   .then(response =>{
     // setNews1(response.data.articles);
    
