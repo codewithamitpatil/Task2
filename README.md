@@ -1,6 +1,45 @@
-# Getting Started with Create React App
+# AmitFoundation 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+
+[Demo Link](https://github.com/facebook/create-react-app).
+
+
+
+
+#Screen Shots
+
+
+
+![Screenshot from 2021-07-14 02-14-04](https://user-images.githubusercontent.com/62344675/125522304-675be71d-4f5c-4633-8b94-f056388aaa8d.png)
+
+![Screenshot from 2021-07-14 02-14-11](https://user-images.githubusercontent.com/62344675/125522314-7d8d23f8-9331-4d60-8ae2-84dce84e46af.png)
+
+![Screenshot from 2021-07-14 02-14-16](https://user-images.githubusercontent.com/62344675/125522316-2ce137d4-d57d-40f0-bad6-a9e4b719ebbd.png)
+
+![Screenshot from 2021-07-14 02-14-25](https://user-images.githubusercontent.com/62344675/125522319-ccdb29d9-482a-41c3-ac0a-809164bdd60a.png)
+
+![Screenshot from 2021-07-14 02-14-31](https://user-images.githubusercontent.com/62344675/125522321-1e1fe56e-c6c9-4957-b727-2b041e8e7729.png)
+
+![Screenshot from 2021-07-14 02-14-39](https://user-images.githubusercontent.com/62344675/125522324-99576dad-8e03-4cd1-8b70-408ffa96207a.png)
+
+![Screenshot from 2021-07-14 02-14-48](https://user-images.githubusercontent.com/62344675/125522326-8a6aea16-87d4-4c25-9174-e4c10b7078f3.png)
+
+![Screenshot from 2021-07-14 02-14-54](https://user-images.githubusercontent.com/62344675/125522328-102a6654-0e6e-477e-b272-fd12081d9cfb.png)
+
+![Screenshot from 2021-07-14 02-15-01](https://user-images.githubusercontent.com/62344675/125522333-a7cb72b9-efab-46d1-9552-92648c83857f.png)
+
+
+
+
+
+
+
+
+
 
 ## Available Scripts
 
