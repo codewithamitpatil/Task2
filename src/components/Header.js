@@ -51,9 +51,10 @@ News
 Contact Us
  </NavLink>   
     </li>
-<li>
+<li><a target="_blank" href="https://pages.razorpay.com/pl_HS1Jrs6EJ5y0MR/view">
+
     <button className="btn btn-success">Donate</button>
-    
+    </a>
 </li>
 
 </ul>
