@@ -26,7 +26,11 @@ Help us take our COVID-19 Missions to more people. Share the page with your frie
 
 </p>
 <div class="btn-002">
+  <a target="_blank" href="https://pages.razorpay.com/pl_HS1Jrs6EJ5y0MR/view">
+
 <button className="btn btn-success">Donate</button>
+  
+  </a>
 <span className="con"> Contact Us +911 55 33 </span>
 </div>
 
